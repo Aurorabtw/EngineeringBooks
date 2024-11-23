@@ -1,4 +1,4 @@
-Name,Author,User Rating,Reviews,Price,Year,Genre
+Name,Author,User Rating,Reviews,Price($),Year,Genre
 Engineering Fundamentals: An Introduction,Saul Fehrenbach,4.5,1200,45.99,2020,Engineering
 Mechanical Engineering Principles,John Bird,4.7,950,39.99,2018,Mechanical Engineering
 Introduction to Chemical Engineering,Scott Fogler,4.6,780,59.95,2019,Chemical Engineering
@@ -60,23 +60,23 @@ Power Electronics,Ned Mohanand William P. Robbins,4.4,20,15,2017,Electrical and 
 Electrical Power Systems,C.L. Wadhwa,4.3,15,150,2015,Electrical and Electronic Engineering
 Introduction to Electric Circuits,Richard C. Dorf and James A. Svoboda,4.4,20,150,2015,Electrical and Electronic Engineering
 Introduction to Electric Circuits,Richard C. Dorf,4.4,20,150,2015,Electrical Engineering
-Structural Analysis, R.C. Hibbeler,4.7,900+, $50-$70, 2017,Civil Engineering
-Design of Reinforced Concrete, Jack C. McCormac,4.6,700+,$60-$85,2015,Civil Engineering
-Civil Engineering Reference Manual for the PE Exam, Michael R. Lindeburg,4.8,1200+, $120-$150,2020,Civil Engineering
-Principles of Foundation Engineering,Braja M. Das,4.7,600+,$70-$90,2018,Civil Engineering
-Mechanics of Materials,James M. Gere, 4.5,1000+,$50-$80,2017,Civil Engineering
-Traffic Engineering, Roger P. Roess,4.6,300+,$85-$100,2014,Civil Engineering
-Steel Design,William T. Segui,4.7,500+,$50-$75,2021,Civil Engineering
-Fundamentals of Hydraulic Engineering Systems,Robert J. Houghtalen,4.5,400+,$70-$95,2016,Civil Engineering
-Building Construction Illustrated,Francis D.K. Ching,4.8, 800+,$30-$50, 2014,Civil Engineering
-Soil Mechanics in Engineering Practice,Karl Terzaghi,4.9,250+, $100-$130, 1996,Civil Engineering
-Advanced Mechanics of Materials and Applied Elasticity, Ansel C. Ugural,4.6,350+, $70-$100,2011,Civil Engineering
-The Art of Construction, Mario Salvadori,4.7, 900+, $15-$25, 2000,Civil Engineering
-Hydrology and Hydraulic Systems,Richard H. McCuen,4.4,300+, $80-$100,Civil Engineering
-Introduction to Environmental Engineering and Science,Gilbert M. Masters,4.6, 500+, $50-$70, 2013,Civil Engineering
-The Design of Prestressed Concrete Structures,T.Y. Lin,4.8,200+,$90-$120,2001,Civil Engineering
-Geotechnical Engineering Principles and Practices,Donald P. Coduto,4.5, 250+, $70-$100, 2016,Civil Engineering
-Water-Resources Engineering, Larry W. Mays,4.6, 400+, $65-$90,2019,Civil Engineering
-Engineering Mechanics: Dynamics, L.G. Kraige,4.5,700+, $50-$80, 2017,Civil Engineering
-Pavement Analysis and Design, Yang H. Huang,4.7,350+,$80-$110,2004,Civil Engineering
-Surveying with Construction Applications,Barry F. Kavanagh,4.6, 400+, $60-$85, 2014,Civil Engineering
+Structural Analysis, R.C. Hibbeler,4.7,900+,70, 2017,Civil Engineering
+Design of Reinforced Concrete, Jack C. McCormac,4.6,700+,85,2015,Civil Engineering
+Civil Engineering Reference Manual for the PE Exam, Michael R. Lindeburg,4.8,1200+,50,2020,Civil Engineering
+Principles of Foundation Engineering,Braja M. Das,4.7,600+,90,2018,Civil Engineering
+Mechanics of Materials,James M. Gere, 4.5,1000+,80,2017,Civil Engineering
+Traffic Engineering, Roger P. Roess,4.6,300+,100,2014,Civil Engineering
+Steel Design,William T. Segui,4.7,500+,75,2021,Civil Engineering
+Fundamentals of Hydraulic Engineering Systems,Robert J. Houghtalen,4.5,400+,95,2016,Civil Engineering
+Building Construction Illustrated,Francis D.K. Ching,4.8, 800+,50, 2014,Civil Engineering
+Soil Mechanics in Engineering Practice,Karl Terzaghi,4.9,250+,130, 1996,Civil Engineering
+Advanced Mechanics of Materials and Applied Elasticity, Ansel C. Ugural,4.6,350+,100,2011,Civil Engineering
+The Art of Construction, Mario Salvadori,4.7, 900+,25, 2000,Civil Engineering
+Hydrology and Hydraulic Systems,Richard H. McCuen,4.4,300+,100,2016,Civil Engineering
+Introduction to Environmental Engineering and Science,Gilbert M. Masters,4.6, 500+,70, 2013,Civil Engineering
+The Design of Prestressed Concrete Structures,T.Y. Lin,4.8,200+,120,2001,Civil Engineering
+Geotechnical Engineering Principles and Practices,Donald P. Coduto,4.5, 250+,100, 2016,Civil Engineering
+Water-Resources Engineering, Larry W. Mays,4.6, 400+,90,2019,Civil Engineering
+Engineering Mechanics: Dynamics, L.G. Kraige,4.5,700+,80, 2017,Civil Engineering
+Pavement Analysis and Design, Yang H. Huang,4.7,350+,110,2004,Civil Engineering
+Surveying with Construction Applications,Barry F. Kavanagh,4.6, 400+,85, 2014,Civil Engineering
