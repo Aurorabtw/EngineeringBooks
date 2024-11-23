@@ -3,7 +3,7 @@ import pandas as pd
 
 # Step 2
 #df = pd.read_csv('C:/Users/tasne/Documents/Code/owo/bestsellerswithcategories.csv')
-df= pd.read_csv('C:/Users/tasne/Documents/Code\owo/Engineering_books_data.csv')
+df= pd.read_csv('C:/Users/tasne/Documents/Code/owo/Engineering_books_data.csv')
 
 # Step 3
 # Get the first 5 rows of the spreadsheet
