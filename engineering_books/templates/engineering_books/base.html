@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engineering Books</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+</head>
+<body>
+    <header class="bg-gray-800 text-white p-4">
+        <nav class="container mx-auto flex justify-between">
+            <a href="/" class="text-2xl font-bold">Engineering Books</a>
+            <ul class="flex space-x-6">
+                <li><a href="/" class="hover:text-blue-500">Home</a></li>
+                <li><a href="/about/" class="hover:text-blue-500">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {% block content %}
+        {% endblock %}
+    </main>
+    <footer class="bg-gray-800 text-white p-4 text-center">
+        <p>&copy; 2024 Engineering Books Project</p>
+    </footer>
+</body>
+</html>
